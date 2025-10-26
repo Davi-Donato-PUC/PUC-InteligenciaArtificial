@@ -1,0 +1,36 @@
+Davi Donato
+Marcella Maia
+Pedro Arduini
+
+
+Tempo gasto nos eventos = Dificuldade do evento / Somatoria das runas usada no evento
+Cada runa pode ser usada 5 vezes no total
+Uma runa ao menos deve restar ao final
+
+
+
+O agente não pode andar na diagonal, somente na vertical e na horizontal.
+
+O agente obrigatoriamente deve utilizar algoritmos de busca por soluções para
+encontra o melhor caminho e planejar os eventos
+
+
+O programa deve exibir o custo do caminho percorrido pelo agente enquanto
+ele se movimenta pelo mapa e também o custo final ao terminar a execução.
+(Custo Final = custo a* + custo dos ginásios calculado pela busca local).
+
+
+
+Calcular caminho até o final com A* passando pelos eventos
+Calcular a melhor combinação do uso de runas em eventos
+
+
+
+
+[0, [],[],[],[],[]]
+
+
+
+
+
+
